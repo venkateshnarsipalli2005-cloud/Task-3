@@ -1,0 +1,10 @@
+question,answer,intent
+"Hi","Hello! How can I help you today?","greet"
+"Where is my order?","You can track your order using the tracking link sent to your email. If you need help, provide your order ID.","order_status"
+"I want to cancel my order","To cancel, visit Orders > select order > Cancel, or reply with your order ID and I'll request cancellation.","cancel_order"
+"How do I return an item?","To return an item, go to Orders > Select order > Return. Returns are accepted within 30 days.","returns"
+"What payment methods do you accept?","We accept credit cards, debit cards, UPI, and more. See payments page for details.","payment"
+"How long does shipping take?","Shipping usually takes 3-7 business days depending on your location.","shipping"
+"How can I contact support?","You can contact support at support@example.com or reply here with details.","contact"
+"Thanks","You're welcome! Anything else I can help with?","thanks"
+"Default fallback","Sorry, I didn't get that. Could you rephrase or ask a different question?","fallback"
